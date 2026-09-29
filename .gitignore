@@ -1,0 +1,8 @@
+# Données du challenge (fournies par Jedha, non redistribuées)
+data/
+*.csv
+
+# Environnements et caches
+.ipynb_checkpoints/
+__pycache__/
+.venv/
